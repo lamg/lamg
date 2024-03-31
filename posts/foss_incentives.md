@@ -1,6 +1,6 @@
 # A solution to incentive problem in FOSS
 
-The xz/liblzma security incident brought to the spotlight the incentive problem in Free and Open Source Software, that has existed since the beginning of the movement.
+The [xz/liblzma security incident](https://news.ycombinator.com/item?id=39865810) brought to the spotlight the incentive problem in Free and Open Source Software, that has existed since the beginning of the movement.
 
 ## Solution
 
