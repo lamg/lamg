@@ -1,6 +1,6 @@
 # Structure, structure, more structure!
 
-<img src="./logo.png" width="100" height="100" top="0" right="0" alt ="structured-sharpie">
+<img src="./logo.png" width="100" height="100" style="position: absolute; top: 20px; right: 30px;" alt ="structured-sharpie">
 
 ### Interests
 - Writing and teaching
