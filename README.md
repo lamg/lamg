@@ -1,16 +1,24 @@
 # Structure, structure, more structure!
 
-<style>
-  #logo {
-      position: absolute;
-      top: 0;
-      right: 0;
-      width: 100px;
-      height: 100px;
-  }
-</style>
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #logo {
+          position: absolute;
+          top: 0;
+          right: 0;
+          width: 100px;
+          height: 100px;
+      }
+    </style>
+  </head>
+  <body>
 
-<img src="./logo.png" id="logo" alt ="structured-sharpie">
+    <img src="./logo.png" id="logo" alt ="structured-sharpie">
+
+  </body>
+</html>
 
 
 ### Interests
