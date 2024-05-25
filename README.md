@@ -10,5 +10,7 @@
 - Problem solving
 
 ### ⚡ Wish list
-- Sublime Text plugin for Jupyter Notebooks + .Net interactive
-- Sublime Text support for developing plugins with F#
+- [Zed][zed] plugin for Jupyter Notebooks + .Net interactive
+- [Zed][zed] support for developing plugins with F#
+
+[zed]: https://github.com/zed-industries/zed
