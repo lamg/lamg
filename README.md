@@ -4,13 +4,10 @@
 
 ### Interests
 - Writing and teaching
-- Formal specifications
+- Formal verification
 - Databases
 - Structured (functional) programming
 - Problem solving
-
-### ⚡ Wish list
-- [Zed][zed] plugin for Jupyter Notebooks + .Net interactive
-- [Zed][zed] support for developing plugins with F#
-
-[zed]: https://github.com/zed-industries/zed
+- Concurrent programming
+- Compilers
+- Smart Contracts
